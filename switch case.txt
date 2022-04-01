@@ -9,3 +9,7 @@ switch(i)
     case 2:
         food = salad;
         break;
+    case 4:
+        food = fries;
+        break;
+}
